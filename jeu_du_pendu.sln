@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeu_du_pendu", "jeu_du_pendu\jeu_du_pendu.csproj", "{569EBC47-B339-40EE-90D3-2DD642EC740C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569EBC47-B339-40EE-90D3-2DD642EC740C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569EBC47-B339-40EE-90D3-2DD642EC740C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569EBC47-B339-40EE-90D3-2DD642EC740C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569EBC47-B339-40EE-90D3-2DD642EC740C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9CE3B5A-1F8B-449E-83B7-75F4775BC0AA}
+	EndGlobalSection
+EndGlobal
